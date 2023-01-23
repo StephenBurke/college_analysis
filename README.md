@@ -30,11 +30,9 @@ Haven't made it this far, just a place holder for now
 
 - [numpy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
-- [pyside2](https://pypi.org/project/PySide2/)
+- [sklearn](https://scikit-learn.org/stable/)
 
 ## Credits
-
-### &emsp; A great many thanks to everyone who's contributed to this project!!
 
 - [Stephen Burke](https://github.com/StephenBurke/)
 
