@@ -21,10 +21,11 @@ Haven't made it this far, just a place holder for now
 
 ## How to contribute
 
-1. Ask to be asigned to an issue
-2. Fork a copy of the repository
+1. Fork this repository
+2. Create a new branch
 3. Fix issue
-4. Submit pull request
+4. Commit and push to the new branch
+5. Submit a pull request
 
 ## Dependencies
 
