@@ -28,9 +28,10 @@ Haven't made it this far, just a place holder for now
 5. Submit a pull request
 
 ## Dependencies
-
+- [flask](https://flask.palletsprojects.com/en/2.2.x/)
 - [numpy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
+- [react](https://reactjs.org/)
 - [sklearn](https://scikit-learn.org/stable/)
 
 ## Credits
