@@ -29,8 +29,10 @@ Haven't made it this far, just a place holder for now
 
 ## Dependencies
 
+- [flask](https://flask.palletsprojects.com/en/2.2.x/)
 - [numpy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
+- [react](https://reactjs.org/)
 - [sklearn](https://scikit-learn.org/stable/)
 
 ## Credits
