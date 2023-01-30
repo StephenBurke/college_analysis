@@ -27,12 +27,23 @@ Haven't made it this far, just a place holder for now
 4. Commit and push to the new branch
 5. Submit a pull request
 
-## Starting react and flask
+## Starting React and Flask
 
 1. Start venv
-2. Run `python server.py` in the flask-server directory
-3. Open a new terminal then cd into the client directory
-4. Run `npm start`
+
+2. In the flask-server directory run
+
+```terminal
+python server.py
+```
+
+3. Open a new terminal then `cd` into the client directory
+
+4. Run
+
+```terminal
+npm start
+```
 
 ## Dependencies
 
