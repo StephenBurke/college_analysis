@@ -27,11 +27,31 @@ Haven't made it this far, just a place holder for now
 4. Commit and push to the new branch
 5. Submit a pull request
 
+## Starting React and Flask
+
+1. Start venv
+
+2. In the flask-server directory run
+
+```terminal
+python server.py
+```
+
+3. Open a new terminal then `cd` into the client directory
+
+4. Run
+
+```terminal
+npm start
+```
+
 ## Dependencies
 
 - [numpy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
 - [sklearn](https://scikit-learn.org/stable/)
+- [react](https://reactjs.org/)
+- [flask](https://flask.palletsprojects.com/en/2.2.x/)
 
 ## Credits
 
