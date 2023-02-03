@@ -2,6 +2,7 @@ from flask import Flask
 import numpy as np
 import pandas as pd
 import pickle
+import random
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
@@ -86,3 +87,5 @@ X = vectorizer.fit_transform(row_data)
 
 # find cosine similarities
 cos_sim_data = pd.DataFrame(cosine_similarity(X))
+
+prep_recommendations(random.randint(0, len(schools)))
