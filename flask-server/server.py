@@ -75,7 +75,7 @@ def get_school_recommendation_desc():
 df_vector = pd.read_pickle('./flask-server/df_vector.pkl')
 
 # load row_list data
-with open('./flask-server/df_rows.bin', 'rb') as f:
+with open('./flask-server/df_rows.pkl', 'rb') as f:
     row_data = pickle.load(f)
 
 # list of schools
