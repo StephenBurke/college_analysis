@@ -47,8 +47,10 @@ npm start
 
 ## Dependencies
 
+- [flask](https://flask.palletsprojects.com/en/2.2.x/)
 - [numpy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
+- [react](https://reactjs.org/)
 - [sklearn](https://scikit-learn.org/stable/)
 - [react](https://reactjs.org/)
 - [flask](https://flask.palletsprojects.com/en/2.2.x/)
